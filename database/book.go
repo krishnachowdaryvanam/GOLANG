@@ -2,7 +2,7 @@ package database
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/krishnachowdaryvanam/GOLANG/models.go"
+	"github.com/krishnachowdaryvanam/GOLANG.git/models"
 )
 
 func GetBooks(db *gorm.DB) ([]models.Book, error) {

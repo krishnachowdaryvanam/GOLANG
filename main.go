@@ -1,9 +1,8 @@
 package main
 
 import (
-	"github.com/krishnachowdaryvanam/GOLANG/database.go"
-	"github.com/krishnachowdaryvanam/GOLANG/database"
-	"github.com/krishnachowdaryvanam/GOLANG/routers"
+	"github.com/krishnachowdaryvanam/GOLANG.git/database"
+	"github.com/krishnachowdaryvanam/GOLANG.git/routers"
 
 )
 

@@ -2,8 +2,8 @@ package routers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/krishnachowdaryvanam/GOLANG/database.go"
-	"github.com/krishnachowdaryvanam/GOLANG/handlers.go"
+	"github.com/krishnachowdaryvanam/GOLANG.git/database"
+	"github.com/krishnachowdaryvanam/GOLANG.git/handlers"
 )
 
 func Router() *gin.Engine {
