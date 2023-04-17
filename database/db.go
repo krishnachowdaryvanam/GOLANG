@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/jinzhu/gorm"
-	"github.com/krishnachowdaryvanam/GOLANG.git/models"
+	"github.com/krishnachowdaryvanam/GOLANG/models.git"
 )
 
 var DB *gorm.DB
