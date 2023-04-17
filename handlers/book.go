@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"github.com/krishnachowdaryvanam/GOLANG.git/database"
+	"github.com/krishnachowdaryvanam/GOLANG/database.git"
 )
 
 type Handler struct {
